@@ -251,7 +251,7 @@
 								<?php else: ?>
 									<?php if( consulting_get_header_style() == 'header_style_4' && $header_phone = get_theme_mod( 'header_phone', __( "<strong>212 714 0177</strong>\n<span>Free call</span>", 'consulting' ) ) ): ?>
 										<div class="mu-header icon_text big clearfix">
-											<a href="cmwl.php"><img src="<?php echo get_theme_file_uri('assets/images/cmwl.png'); ?>" alt="CMWL"></a>
+											<a href="/cmwl-weight-loss/"><img src="<?php echo get_theme_file_uri('assets/images/cmwl.png'); ?>" alt="CMWL"></a>
 											<!-- <div class="icon"><i class="fa <?php //echo esc_attr( get_theme_mod( 'header_phone_icon', 'fa-phone' ) ); ?>"></i></div>
 											<div class="text"><?php //echo nl2br( $header_phone ); ?></div> -->
 										</div>
