@@ -306,3 +306,6 @@ html.stm-site-preloader:after {
   display: block;
   font-size: 20px;
 }
+.logo-phone .fa {
+  margin-right: 10px;
+}
