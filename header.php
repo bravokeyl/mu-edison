@@ -220,6 +220,7 @@
 											<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php echo esc_url( $logo ); ?>" style="width: <?php echo esc_attr(get_theme_mod('logo_width')) ?>px; height: <?php echo esc_attr(get_theme_mod('logo_height')) ?>px;" alt="<?php bloginfo( 'name' ); ?>" /></a>
 										<?php else : ?>
 											<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php echo esc_url( $logo ); ?>" style="width: <?php echo esc_attr(get_theme_mod('logo_width')) ?>px; height: <?php echo esc_attr(get_theme_mod('logo_height')) ?>px;" alt="<?php bloginfo( 'name' ); ?>" /></a>
+											<span class="logo-phone"><i class="fa fa-phone"></i>908-226-0600</span>
 										<?php endif; ?>
 									<?php else: ?>
 										<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo( 'name' ); ?></a>
