@@ -284,6 +284,6 @@ html.stm-site-preloader:after {
     padding: 0 !important;
     background: transparent !important;
 }
-.header_top .icon_text {
+.header_top .icon_text.mu-header {
     margin: 5px 0 0 38px;
 }
