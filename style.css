@@ -289,7 +289,9 @@ html.stm-site-preloader:after {
     padding: 0 !important;
     background: transparent !important;
 }
-.header_top .icon_text.mu-header,
-.header_top .icon_text.mu-address {
+.header_top .icon_text.mu-header {
     margin: 5px 0 0 38px;
+}
+.header_top .icon_text.mu-address {
+    margin: 5px 0 0 28px;
 }
