@@ -295,3 +295,10 @@ html.stm-site-preloader:after {
 .header_top .icon_text.mu-address {
     margin: 5px 0 0 0px;
 }
+#footer .footer_widgets .widget.widget_text p {
+   font-size: 15px;
+}
+.widget.widget_text {
+   font-size: 14px;
+   line-height: 24px;
+}
