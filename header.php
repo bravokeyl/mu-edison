@@ -265,7 +265,7 @@
 										</div>
 									<?php endif; ?>
 									<?php if( $header_address = get_theme_mod( 'header_address', __( "<strong>1010 Avenue of the Moon</strong><br/><span>New York, NY 10018 US.</span>", 'consulting' ) ) ): ?>
-										<div class="icon_text clearfix">
+										<div class="mu-address icon_text clearfix">
 											<div class="icon"><i class="fa <?php echo esc_attr( get_theme_mod( 'header_address_icon', 'fa-map-marker' ) ); ?>"></i></div>
 											<div class="text stm_st_address_1">
 												<?php _e($header_address, 'consulting'); ?>
