@@ -179,8 +179,8 @@ if( ! function_exists( 'consulting_load_theme_scripts_and_styles' ) ){
 			/* Enqueue Styles */
 			wp_enqueue_style( 'bootstrap' );
 			wp_enqueue_style( 'font-awesome' );
-			wp_enqueue_style( 'consulting-style' );
 			wp_enqueue_style( 'consulting-layout' );
+      wp_enqueue_style( 'consulting-style' );
 			wp_enqueue_style( 'select2' );
 			wp_enqueue_style( 'consulting-default-font' );
 
